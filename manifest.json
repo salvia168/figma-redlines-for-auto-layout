@@ -1,0 +1,26 @@
+{
+  "name": "Redlines for Auto layout",
+  "id": "1250738905276580698",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  },
+  "menu": [
+    {
+      "name":"Only First Item Spacing",
+      "command":"first"
+    },
+    {
+      "name":"All Item Spacing",
+      "command":"all"
+    }
+  ]
+}
