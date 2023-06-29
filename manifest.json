@@ -2,7 +2,7 @@
   "name": "Redlines for Auto layout",
   "id": "1250738905276580698",
   "api": "1.0.0",
-  "main": "code.js",
+  "main": "dist/code.js",
   "capabilities": [],
   "enableProposedApi": false,
   "editorType": [
